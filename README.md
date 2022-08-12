@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+# WBW3 Challenge Github repo
+# This is a hardhat project and is slightly different from WBW3 curriculum, since hardhat was somewhat updated after they wrote the curriculum
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Link to the WBW3 curriculum- https://www.30daysofweb3.xyz/curriculum/1-getting-started/0-overview
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+This project is made as part of my participation in the 30daysofWeb3 Challenge by the Women build web3 community. I am incredibly grateful to be participating here, feel free to clone this repo for any help you may need. I will add the relevent checkpoints in al my commit messages.
